@@ -1,0 +1,15 @@
+.add-form {
+  display: flex;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.add-form__input {
+  width: 180px;
+  padding: 10px;
+  margin-right: 5px;
+}
+
+.button-add {
+  background-color: #679b00;
+}
